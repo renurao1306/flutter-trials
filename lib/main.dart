@@ -5,7 +5,7 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
-        body: GradientContainer(colors:[Colors.pink, Colors.yellow]),
+        body: GradientContainer(colors:[Colors.pink, Colors.cyanAccent]),
       ),
     ),
   );
